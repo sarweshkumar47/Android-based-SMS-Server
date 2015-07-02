@@ -1,0 +1,5 @@
+<resources>
+    <string name="smsreceiver">Waiting for collar SMS!</string>
+    <string name="app_name">Elephant Collar Server</string>
+    <string name="action_settings">Settings</string>
+</resources>
