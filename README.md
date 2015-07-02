@@ -8,4 +8,4 @@ This android application receives these PDU sms messages, parses the hardware in
 
 To provide store and forward facility, have used [Reyna library which is hosted on Github] (https://github.com/B2MSolutions/reyna) 
 
-Application stores will store the data and post them when there is a valid connection.
+Application will store the data and post them when there is a valid connection.
