@@ -1,2 +1,5 @@
 # Android-based-SMS-Server
-Application parses the PDU SMS (Pure hex bytes) which is sent by a embedded hardware to cloud
+
+Android Application parses the PDU SMS (Pure hex bytes) which is sent by an embedded hardware to the cloud
+
+
