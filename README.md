@@ -11,8 +11,7 @@
 * Application will store the data and post them when there is a valid connection.
 
     
-### Software Tools
-
-    -> Android Studio
+## Software Tools
+* Android Studio
   
   
